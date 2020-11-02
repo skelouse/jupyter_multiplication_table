@@ -13,6 +13,7 @@ def main():
     for i in range(size):
         for k in range(size):
             final[i, k] = ((i+1) * (k+1))
+    print(final.astype(int))
     return final.astype(int)
 
 
