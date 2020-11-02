@@ -1,2 +1,4 @@
 .vscode/settings.json
 __pycache__
+notebook.ipynb
+.ipynb_checkpoints/notebook-checkpoint.ipynb
