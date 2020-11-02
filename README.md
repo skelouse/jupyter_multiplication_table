@@ -29,6 +29,5 @@ def main(size):
     display(pd.DataFrame(final.astype(int)))
 ```
 
-
-    interactive(children=(Dropdown(description='size', options=(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,…
+![img](https://i.imgur.com/HdkpZ4Q.png)
 
